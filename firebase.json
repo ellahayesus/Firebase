@@ -1,0 +1,8 @@
+{
+  "hosting": {
+    "site": "letter-boxed-puzzle",
+
+    "public": "public",
+    ...
+  }
+}
